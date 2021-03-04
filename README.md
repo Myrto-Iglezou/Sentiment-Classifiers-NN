@@ -3,7 +3,7 @@
 ### Project description
 
 Develop a sentiment classifier using feed-forward neural networks for the Twitter sentiment
-analysis dataset of the previous assignment available here. We expect you to experiment
+analysis dataset. We expect you to experiment
 and develop more than one models (at least two) and compare them over F1 score, Recall
 and Precision. For the development of the models, experiment with:
 
